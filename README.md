@@ -5,7 +5,7 @@ Windows services with Quartz perform many scheduled jobs. Application implemente
 cmd: dotnet publish --configuration Release
 
 #Deploy
-sc create <ServiceName> binPath= "<BinaryPathName>"
+cmd: sc create <ServiceName> binPath= "<BinaryPathName>"
 ex: sc create serviceName binpath= "D:/publish/WinJobScheduleCore.exe"
 
 #Start/Stop service
