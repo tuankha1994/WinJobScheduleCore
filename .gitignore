@@ -3,3 +3,17 @@
 ################################################################################
 
 /.vs
+/WinJobScheduleCore/bin/Debug/netcoreapp2.1/win10-x64
+/WinJobScheduleCore/obj/Debug/netcoreapp2.1/win10-x64/WinJobScheduleCore.assets.cache
+/WinJobScheduleCore/obj/netcoreapp2.1/win10-x64/host
+/WinJobScheduleCore/obj/project.assets.json
+/WinJobScheduleCore/obj/WinJobScheduleCore.csproj.nuget.cache
+/WinJobScheduleCore/obj/WinJobScheduleCore.csproj.nuget.g.props
+/WinJobScheduleCore/obj/WinJobScheduleCore.csproj.nuget.g.targets
+/WinJobScheduleCore/obj/Debug/netcoreapp2.1/win10-x64/WinJobScheduleCore.csproj.FileListAbsolute.txt
+/WinJobScheduleCore/obj/Debug/netcoreapp2.1/win10-x64/WinJobScheduleCore.csprojAssemblyReference.cache
+/WinJobScheduleCore/obj/Debug/netcoreapp2.1/win10-x64/WinJobScheduleCore.dll
+/WinJobScheduleCore/obj/Debug/netcoreapp2.1/win10-x64/WinJobScheduleCore.RazorAssemblyInfo.cache
+/WinJobScheduleCore/obj/Debug/netcoreapp2.1/win10-x64/WinJobScheduleCore.RazorAssemblyInfo.cs
+/WinJobScheduleCore/obj/Debug/netcoreapp2.1/win10-x64/WinJobScheduleCore.RazorTargetAssemblyInfo.cache
+/WinJobScheduleCore/obj/Debug/netcoreapp2.1/win10-x64/WinJobScheduleCore.pdb
